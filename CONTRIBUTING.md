@@ -1,12 +1,12 @@
 # SendGrid Contributing Guide
 
-Hello! Thank you for choosing to help contriubute to the SendGrid official SDKs. There are many ways you can contribute and help is always welcome. 
+Hello! Thank you for choosing to help contribute to the SendGrid official SDKs. There are many ways you can contribute and help is always welcome. 
 
-To get started, there's a few ways to contribute, which we'll enumerate below:
+To get started, there are a few ways to contribute, which we'll enumerate below:
 
 ## Feature Request
 
-If you'd like to report an issue because yyou'd like to make a feature request, please read this section.
+If you'd like to report an issue because you'd like to make a feature request, please read this section.
 
 The GitHub issue tracker is the preferred channel for library feature requests, but please respect the following restrictions:
 
